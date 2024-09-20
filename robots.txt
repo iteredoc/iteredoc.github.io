@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iteredoc.github.io/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/app/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/assets/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/css/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/data/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/includes/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/item/sitemap.html.gz
+Sitemap: https://iteredoc.github.io/src/sitemap.html.gz
